@@ -3,7 +3,6 @@
     src: url('stratosskyengweb-regular.woff');
     src: url('stratosskyengweb-regular.woff2');
     font-weight: 400;
-    font-style: normal;
 }
 
 @font-face {
@@ -18,5 +17,4 @@
     src: url('stratosskyengweb-bold.woff');
     src: url('stratosskyengweb-bold.woff2');
     font-weight: 700;
-    font-style: normal;
 }
